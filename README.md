@@ -1,5 +1,3 @@
-
-```
 ## Clonando e Configurando seu Projeto PHP
 
 ### Passo 1: Clonando o Repositório GitHub
@@ -60,19 +58,3 @@
    **Exemplo para um servidor PHP embutido:**
    ```bash
    php -S localhost:8000
-
-```
-
--   **Substitua:**  `localhost:8000` pelo endereço e porta desejados.
-
-**Após iniciar o servidor, acesse a aplicação no seu navegador.** Por exemplo, se você iniciou o servidor na porta 8000, acesse `http://localhost:8000`.
-
-**Observações:**
-
--   **Adapte este tutorial:** Este guia é um modelo geral. Adapte-o às especificidades do seu projeto e do seu ambiente de desenvolvimento.
--   **Verifique a documentação:** Consulte a documentação do projeto para obter instruções mais detalhadas e específicas.
--   **Gerenciador de dependências:** Se o projeto utilizar um gerenciador de dependências como Composer, siga as instruções para instalar as dependências antes de executar a aplicação.
-
-**Com este guia, você deverá ser capaz de clonar, configurar e executar seu projeto PHP com sucesso.**
-
-**Este projeto foi criado usando php8 e mysql**
