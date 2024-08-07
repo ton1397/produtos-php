@@ -14,10 +14,8 @@
 3. **Execute o comando de clonagem:**
    * Cole a URL copiada e execute o seguinte comando:
      ```bash
-     git clone [https://github.com/xxx/seu-repositorio.git](https://github.com/xxx/seu-repositorio.git)
+     git clone https://github.com/ton1397/produtos-php.git
      ```
-     **Substitua:**
-     * `https://github.com/xxx/seu-repositorio.git` pela URL exata do repositório.
 
 ### Passo 2: Criando o Banco de Dados
 **Crie um banco de dados com o nome especificado no arquivo `Database.sql`**. Normalmente, esse nome está definido no próprio script SQL.
